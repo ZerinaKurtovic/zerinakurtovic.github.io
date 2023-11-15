@@ -13,3 +13,22 @@
   url: 'https://www.nature.com/articles/s41392-022-01186-6'
   filename: ''
   conf: "Signal Transduction and Targeted Therapy"
+
+3:
+  title: 'A network of CD163+ macrophages monitors enhanced permeability at the blood-dorsal root ganglion barrier'
+  authors: 'Harald Lund, Matthew Hunt, <b>Zerina Kurtovic</b>, Katalin Sandor, Noah Fereydouni, Anais Julien, Christian Goeritz, Jinming Han, Keying Zhu, Robert A Harris, Jon Lampa, Lisbet Haglund, Tony L Yaksh, Camilla I Svensson'
+  year: '2023'
+  url: 'https://www.biorxiv.org/content/10.1101/2023.03.27.534318v1.abstract'
+  filename: ''
+  conf: "bioRxiv"
+
+4:
+  title: 'circRNA landscape in dorsal root ganglia from mice with collagen antibody-induced arthritis'
+  authors: '<b>Zerina Kurtović</b>, Katalin Sandor, Freija ter Heegde, Resti Rudjito, Camilla I Svensson, Vinko Palada'
+  year: '2023'
+  url: 'https://www.sciencedirect.com/science/article/pii/S2452073X23000296'
+  filename: ''
+  conf: "Neurobiology of Pain"
+
+
+
