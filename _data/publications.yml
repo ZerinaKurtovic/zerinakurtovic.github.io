@@ -1,20 +1,12 @@
 1:
-  title: 'DRGquant: A new modular AI-based pipeline for 3D analysis of the DRG'
-  authors: 'Matthew A Hunt, Harald Lund, Lauriane Delay, Gilson Goncalves Dos Santos, Albert Pham, <b>Zerina Kurtovic</b>, Aditya Telang, Adam Lee, Akhil Parvathaneni, Emily Kussick, Maripat Corr, Tony L Yaksh'
-  year: '2022'
-  url: 'https://www.sciencedirect.com/science/article/pii/S0165027022000243'
+  title: 'circRNA landscape in dorsal root ganglia from mice with collagen antibody-induced arthritis'
+  authors: '<b>Zerina Kurtović</b>, Katalin Sandor, Freija ter Heegde, Resti Rudjito, Camilla I Svensson, Vinko Palada'
+  year: '2023'
+  url: 'https://www.sciencedirect.com/science/article/pii/S2452073X23000296'
   filename: ''
-  conf: "Journal of Neuroscience Methods"
-  
-2:
-  title: 'Bugs improve nerve regeneration: Fasting-induced, microbiome-derived metabolite enhances peripheral nerve regeneration'
-  authors: '<b>Zerina Kurtovic</b>, Camilla I Svensson, Emerson Krock'
-  year: '2022'
-  url: 'https://www.nature.com/articles/s41392-022-01186-6'
-  filename: ''
-  conf: "Signal Transduction and Targeted Therapy"
+  conf: "Neurobiology of Pain"
 
-3:
+2:
   title: 'A network of CD163+ macrophages monitors enhanced permeability at the blood-dorsal root ganglion barrier'
   authors: 'Harald Lund, Matthew Hunt, <b>Zerina Kurtovic</b>, Katalin Sandor, Noah Fereydouni, Anais Julien, Christian Goeritz, Jinming Han, Keying Zhu, Robert A Harris, Jon Lampa, Lisbet Haglund, Tony L Yaksh, Camilla I Svensson'
   year: '2023'
@@ -22,13 +14,21 @@
   filename: ''
   conf: "bioRxiv"
 
-4:
-  title: 'circRNA landscape in dorsal root ganglia from mice with collagen antibody-induced arthritis'
-  authors: '<b>Zerina Kurtović</b>, Katalin Sandor, Freija ter Heegde, Resti Rudjito, Camilla I Svensson, Vinko Palada'
-  year: '2023'
-  url: 'https://www.sciencedirect.com/science/article/pii/S2452073X23000296'
+3:
+  title: 'DRGquant: A new modular AI-based pipeline for 3D analysis of the DRG'
+  authors: 'Matthew A Hunt, Harald Lund, Lauriane Delay, Gilson Goncalves Dos Santos, Albert Pham, <b>Zerina Kurtovic</b>, Aditya Telang, Adam Lee, Akhil Parvathaneni, Emily Kussick, Maripat Corr, Tony L Yaksh'
+  year: '2022'
+  url: 'https://www.sciencedirect.com/science/article/pii/S0165027022000243'
   filename: ''
-  conf: "Neurobiology of Pain"
+  conf: "Journal of Neuroscience Methods"
+  
+4:
+  title: 'Bugs improve nerve regeneration: Fasting-induced, microbiome-derived metabolite enhances peripheral nerve regeneration'
+  authors: '<b>Zerina Kurtovic</b>, Camilla I Svensson, Emerson Krock'
+  year: '2022'
+  url: 'https://www.nature.com/articles/s41392-022-01186-6'
+  filename: ''
+  conf: "Signal Transduction and Targeted Therapy"
 
 
 
