@@ -1,0 +1,71 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+
+.inner {
+	max-width: 75%;
+}
+
+#div_head {
+	padding: 10px;
+	width: 100;
+}
+#div_head_picture {
+	width: 25%;
+	vertical-align: top;
+	display: inline-block;
+	padding: 10px;
+}
+
+#div_head_text {
+	width: 70%;
+	vertical-align: top;
+	display: inline-block;
+	padding: 10px;
+}
+
+@media screen and (max-width: 500px) {
+	#div_head {
+		text-align: center;
+	}
+	
+	#div_head_picture {
+		width: 60%;
+	}
+	
+	#div_head_text {
+		width: 100%;
+	}
+}
+
+.div_scrollable_table {
+	overflow-x: scroll;
+}
+.tab_scrollable {
+	border-spacing: 0px;
+	font-size: 12px;
+	width: 100%;
+}
+
+.tab_scrollable a {
+	color: #555;
+	text-decoration: underline;
+}
+.tab_scrollable a:hover {
+	color: #555;
+	text-decoration: underline;
+}
+
+.tab_scrollable tr:nth-child(even){
+	background-color: #f0f0f0;  
+}
+
+.tab_scrollable tr:hover{
+  background-color: #dddddd;
+  color: #000000;
+}
+.tab_scrollable td {
+  padding: 5px 0px;
+}

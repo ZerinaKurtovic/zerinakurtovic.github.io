@@ -1,0 +1,35 @@
+{% if site.data.publications %}
+{% assign pub = site.data.publications %}
+## List of works
+<div class="div_scrollable_table">
+	<table class="tab_scrollable">
+		<colgroup>
+			<col width="17%" style="min-width:100px;"/>
+			<col width="5%" style="min-width:70px;"/>
+			<col width="53%" style="min-width:300px;"/>
+			<col width="25%" style="min-width:200px;"/>
+		</colgroup>
+		<thead>
+			<tr class="header">
+				<th>Venue</th>
+				<th>Year</th>
+				<th>Title</th>
+				<th>Authors</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for entry in pub %}
+				{% assign key = entry | first %}
+				{% if pub[key].title %}
+					<tr>
+						<td markdown="span"><a href="{{ pub[key].url }}"><b>{{ pub[key].conf }}</b></a></td>
+						<td markdown="span" align=center>{{ pub[key].year }}</td>
+						<td markdown="span"><a href="assets/papers/{{ pub[key].filename }}">{{ pub[key].title }}</a></td>
+						<td markdown="span"><i>{{ pub[key].authors }}</i></td>
+					</tr>
+				{% endif %}
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+{% endif %}

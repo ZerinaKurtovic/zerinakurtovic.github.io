@@ -1,0 +1,35 @@
+email:
+  id: 'jonatan##langlet::io' #     '##': '@', '::': '.'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fas fa-envelope-square'
+
+#facebook:
+#  id: 'jonatan.langlet'
+#  href: 'https://www.facebook.com/'
+#  title: 'Facebook'
+#  fa-icon: 'fab fa-facebook-square'
+
+linkedin:
+  id: 'jonatan-langlet-230984197'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fab fa-linkedin'
+
+twitter:
+  id: 'JonatanLanglet'
+  href: 'https://twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fab fa-twitter-square'
+
+googlescholar:
+  id: 'bABiaVgAAAAJ'
+  href: 'https://scholar.google.se/citations?user='
+  title: 'Google Scholar'
+  fa-icon: 'ai ai-google-scholar-square ai-3x'
+  
+github:
+  id: 'jonlanglet'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fab fa-github-square'
