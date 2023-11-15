@@ -15,3 +15,9 @@ twitter:
   href: 'https://twitter.com/'
   title: 'Twitter'
   fa-icon: 'fab fa-twitter-square'
+
+researchgate:
+  id: 'Zerina-Kurtovic-2'
+  href: 'https://www.researchgate.net/profile/'
+  title: 'ResearchGate'
+  fa-icon: 'fab fa-researchgate-square'
