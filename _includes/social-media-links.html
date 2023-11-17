@@ -7,7 +7,7 @@
 			{% if sm[key].href == "mailto:" %}
 				<a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}" onmouseover="this.href=this.href.replace('::','.');this.href=this.href.replace('##','@')" class="social_media"><i class="{{ sm[key].fa-icon}}" style="font-size:32px"></i></a>
 			{% else %}
-				<a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="{{ sm[key].fa-icon}}" style="font-size:32px" class="social_media"></i></a>
+				<a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}" class="social_media"><i class="{{ sm[key].fa-icon}}" style="font-size:32px"></i></a>
 			{% endif %}
 		{% endif %}
 	{% endfor %}
